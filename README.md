@@ -7,7 +7,7 @@ This project is a simple **HTML/CSS/JavaScript interactive animation** that adds
 ---
 
 ## 🎥 Live Demo
-👉 [View Project on GitHub Pages]((https://successiblelife.com/es/unas-de-invierno-simples/)
+👉 [View Project on GitHub Pages](https://successiblelife.com/es/unas-de-invierno-simples/)
 
 
 ---
