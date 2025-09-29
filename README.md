@@ -37,3 +37,5 @@ This project is a simple **HTML/CSS/JavaScript interactive animation** that adds
 ---
 
 ## 📂 Project Structure
+
+Linkedin: https://www.linkedin.com/in/ryan-s-676a611b3/
